@@ -1,0 +1,11 @@
+[package]
+name = "omnimouse"
+version = "0.1.0"
+edition = "2021"
+description = "OmniMouse - Universal Windows Mouse Companion"
+
+[dependencies]
+
+[[bin]]
+name = "omnimouse"
+path = "src/main.rs"

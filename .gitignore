@@ -1,0 +1,7 @@
+/target
+*.exe
+*.log
+*.d
+*.tmp
+*.res
+.agents/teamwork/
